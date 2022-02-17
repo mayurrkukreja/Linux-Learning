@@ -8,7 +8,7 @@ It is freely distributable and is generally built around Linux Kernel.
 Furthermore, it can be installed in mobiles, laptops, computers, notebooks, etc.
 
 
-# 1.2Linux History
+# 1.2 Linux History
 
 Today, supercomputers, smart phones, desktop, web servers, tablet, laptops and home appliances like washing machines, DVD players, routers, modems, cars, refrigerators, etc use Linux OS.
 

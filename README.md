@@ -1,2 +1,1 @@
-# Linux-Learning
-Basics of Linux - Cookbook 
+# Linux-Learning (Ubuntu 20.04 LTS)

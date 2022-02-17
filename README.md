@@ -2,8 +2,9 @@
 | Module 	| Unit 	| Topics                  	| Links 	| Resources 	|
 |--------	|------	|-------------------------	|-------	|-----------	|
 | 1      	| 1.1  	| Linux and its features  	|       	|           	|
-|        	| 1.2  	| Linux OS internals      	|       	|           	|
-|        	| 1.3  	| Linux Distributions     	|       	|           	|
+|        	| 1.2  	| Linux History      	|       	|           	|
+|        	| 1.3  	| Linux OS internals      	|       	|           	|
+|        	| 1.4  	| Linux Distributions     	|       	|           	|
 | 2      	| 2.1  	| Linux Installation      	|       	|           	|
 | 3      	| 3.1  	| Process states in Linux 	|       	|           	|
 | 4      	| 4.1  	| Linux Directories       	|       	|           	|

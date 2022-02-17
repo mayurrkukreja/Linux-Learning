@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Linux-Learning
-Basics of Linux - Cookbook 
-=======
 # Linux-Learning
 | Module 	| Unit 	| Topics                  	| Links 	| Resources 	|
 |--------	|------	|-------------------------	|-------	|-----------	|
@@ -18,4 +14,3 @@ Basics of Linux - Cookbook
 | 7      	| 7.1  	| Linux users             	|       	|           	|
 |        	| 7.2  	| Admin commands          	|       	|           	|
 | 8      	| 8.1  	| Linux Networking        	|       	|           	|
->>>>>>> d35a23a018c90ac0ff8107bc767987cbc35bf5bc

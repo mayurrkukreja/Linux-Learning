@@ -11,7 +11,7 @@
 |        	| 4.2  	| Linux Files             	|       	|           	|
 |        	| 4.3  	| Linux File Contents     	|       	|           	|
 | 5      	| 5.1  	| Linux Shell Commands    	|       	|           	|
-| 6      	| 6.1  	| nano editor             	|       	|           	|
+| 6      	| 6.1  	| Shell Scripts             	|       	|           	|
 | 7      	| 7.1  	| Linux users             	|       	|           	|
 |        	| 7.2  	| Admin commands          	|       	|           	|
 | 8      	| 8.1  	| Linux Networking        	|       	|           	|

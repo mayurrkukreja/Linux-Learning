@@ -48,3 +48,19 @@ In 1991, Linus Torvalds a student at the university of Helsinki, Finland, though
 He started it just for fun but ended up with such a large project. Firstly he wanted to name it as 'Freax' but later it became 'Linux'.
 
 He published the Linux kernel under his own license and was restricted to use as commercially. Linux uses most of its tools from GNU software and are under GNU copyright. In 1992, he released the kernel under GNU General Public License.
+
+
+# Linux OS Internals
+1. What are basic elements or components of Linux?
+Linux generally consists of five basic elements or components as given below: 
+<img src="https://s3.ap-south-1.amazonaws.com/myinterviewtrainer-domestic/public_assets/assets/000/000/304/original/Linux_System_Architecture.png?1618826318">
+
+**Kernel:** It is considered a core or main part of Linux and is generally responsible for all major activities of OS such as process management, device management, etc.  
+
+**System Library:** These are special functions or programs with the help of which application programs or system utilities can access features of the kernel without any requirement of code. It is simply used to implement the functionality of the OS. 
+
+**System Utility:** These are utility programs that are responsible to perform specialized and individual-level tasks. They are considered more liable and allow users to manage the computer.  
+
+**Hardware:** It is physical hardware that includes items such as a mouse, keyboard, display, CPU, etc. 
+
+**Shell:** It is an environment in which we can run our commands, shell scripts, and programs. It is an interface between user and kernel that hides all complexities of functions of the kernel from the user. It is used to execute commands.

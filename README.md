@@ -3,7 +3,7 @@
 |--------	|------	|-------------------------	|-------	|-----------	|
 | 1      	| 1.1  	| Linux and its features  	|<a href="https://github.com/mayurrkukreja/Linux-Learning#11-linux-and-its-features">Open</a>       	|           	|
 |        	| 1.2  	| Linux History      	|<a href="https://github.com/mayurrkukreja/Linux-Learning#12-linux-history">Open</a>       	|           	|
-|        	| 1.3  	| Linux OS internals      	|       	|           	|
+|        	| 1.3  	| Linux OS internals      	|<a href="https://github.com/mayurrkukreja/Linux-Learning#12-linux-history">Open</a>       	|           	|
 |        	| 1.4  	| Linux Distributions     	|       	|           	|
 | 2      	| 2.1  	| Linux Installation      	|       	|           	|
 | 3      	| 3.1  	| Process states in Linux 	|       	|           	|

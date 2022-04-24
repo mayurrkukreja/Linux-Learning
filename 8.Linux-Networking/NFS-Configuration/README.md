@@ -22,11 +22,13 @@ between clients and servers.
 NFS is one of the most widely used protocols for file servers. NFS
 implementations are available for most modern operating systems
 (OSes), including the following:
-• Hewlett Packard Enterprise HP-UX
-• IBM AIX
-• Microsoft Windows
-• Linux
-• Oracle Solaris
+
+- Hewlett Packard Enterprise HP-UX
+- IBM AIX
+- Microsoft Windows
+- Linux
+- Oracle Solaris
+
 Cloud vendors also implement the NFS protocol for cloud storage,
 including Amazon Elastic File System, NFS file shares in Microsoft
 Azure and Google Cloud Filestore.
@@ -46,3 +48,9 @@ storage protocol; however, NFS now supports both the
 Transmission Control Protocol (TCP) and UDP. Support for TCP as
 a transport layer protocol was added to NFS version 3 (NFSv3) in
 1995
+
+<img src="https://github.com/mayurrkukreja/Linux-Learning/blob/main/8.Linux-Networking/NFS-Configuration/9.png?raw=true">
+<img src="https://github.com/mayurrkukreja/Linux-Learning/blob/main/8.Linux-Networking/NFS-Configuration/10.png?raw=true">
+<img src="https://github.com/mayurrkukreja/Linux-Learning/blob/main/8.Linux-Networking/NFS-Configuration/11.png?raw=true">
+<img src="https://github.com/mayurrkukreja/Linux-Learning/blob/main/8.Linux-Networking/NFS-Configuration/12.png?raw=true">
+<img src="https://github.com/mayurrkukreja/Linux-Learning/blob/main/8.Linux-Networking/NFS-Configuration/13.png?raw=true">

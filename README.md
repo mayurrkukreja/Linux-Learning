@@ -64,3 +64,32 @@ Linux generally consists of five basic elements or components as given below:
 **Hardware:** It is physical hardware that includes items such as a mouse, keyboard, display, CPU, etc. 
 
 **Shell:** It is an environment in which we can run our commands, shell scripts, and programs. It is an interface between user and kernel that hides all complexities of functions of the kernel from the user. It is used to execute commands.
+
+
+# Linux Distributions List
+There are on an average six hundred Linux distributors providing different features. Here, we'll discuss about some of the popular Linux distros today.
+
+1) Ubuntu
+It came into existence in 2004 by Canonical and quickly became popular. Canonical wants Ubuntu to be used as easy graphical Linux desktop without the use of command line. It is the most well known Linux distribution. Ubuntu is a next version of Debian and easy to use for newbies. It comes with a lots of pre-installed apps and easy to use repositories libraries.
+
+Earlier, Ubuntu uses GNOME2 desktop environment but now it has developed its own unity desktop environment. It releases every six months and currently working to expand to run on tablets and smartphones.
+
+2) Linux Mint
+Mint is based on Ubuntu and uses its repository software so some packages are common in both.
+
+Earlier it was an alternative of Ubuntu because media codecs and proprietary software are included in mint but was absent in Ubuntu. But now it has its own popularity and it uses cinnamon and mate desktop instead of Ubuntu's unity desktop environment.
+
+3) Debian
+Debian has its existence since 1993 and releases its versions much slowly then Ubuntu and mint.
+
+This makes it one of the most stable Linux distributor.
+
+Ubuntu is based on Debian and was founded to improve the core bits of Debian more quickly and make it more user friendly. Every release name of Debian is based on the name of the movie Toy Story.
+
+4) Red Hat Enterprise / CentOS
+Red hat is a commercial Linux distributor. There products are red hat enterprise Linux (RHEL) and Fedora which are freely available. RHEL is well tested before release and supported till seven years after the release, whereas, fedora provides faster update and without any support.
+
+Red hat uses trademark law to prevent their software from being redistributed. CentOS is a community project that uses red hat enterprise Linux code but removes all its trademark and make it freely available. In other words, it is a free version of RHEL and provide a stable platform for a long time.
+
+5) Fedora
+It is a project that mainly focuses on free software and provides latest version of software. It doesn't make its own desktop environment but used 'upstream' software. By default it has GNOME3 desktop environment. It is less stable but provides the latest stuff.

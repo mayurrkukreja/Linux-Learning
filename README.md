@@ -140,3 +140,26 @@ Once the process is scheduled for the execution, the processor starts executing 
 
 4. Deletion/killing
 Once the purpose of the process gets over then the OS will kill the process. The Context of the process (PCB) will be deleted and the process gets terminated by the Operating system.
+
+# Linux Directories and File Structure
+In Linux/Unix operating system everything is a file even directories are files, files are files, and devices like mouse, keyboard, printer, etc are also files. Here we are going to see the Directory Structure in Linux.
+Types of files in the Linux system. 
+
+General Files – It is also called ordinary files. It may be an image, video, program, or simple text files. These types of files can be in ASCII or Binary format. It is the most commonly used file in the Linux system.
+   - Directory Files – These types of files are a warehouse for other file types. It may be a directory file within a directory (subdirectory).
+   - Device Files – In a Windows-like operating system, devices like CD-ROM, and hard drives are represented as drive letters like F: G: H whereas in the Linux system device are represented as files. As for example, /dev/sda1, /dev/sda2 and so on.
+
+We know that Windows-like operating system, files are stored in different folders on different data drives like C: D: E: whereas in the Linux/Unix operating system files are stored in a tree-like structure starting with the root directory as shown in the below diagram.
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210501124411/dir.png">
+
+The base of the Linux/Unix file system hierarchy begins at the root and everything starts with the root directory. 
+These are the common top-level directories associated with the root directory:
+
+/bin – binary or executable programs.
+/etc – system configuration files.
+/home – home directory. It is the default current directory.
+/opt – optional or third-party software.
+/tmp – temporary space, typically cleared on reboot.
+/usr – User related programs.
+/var – log files.

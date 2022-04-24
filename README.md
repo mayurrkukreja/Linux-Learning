@@ -15,10 +15,10 @@
 | 7      	| 7.1  	| Linux users             	|       	|           	|
 |        	| 7.2  	| Admin commands          	|       	|           	|
 | 8      	| 8.1  	| Linux Networking        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking">Open</a>        	|           	|
-|       	| 8.1  	| Apache2 Server Configuration        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/Apache2-Configuration">Open</a>  |           	|
-|       	| 8.2  	| NFS server Configuration       	| <a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/NFS-Configuration">Open</a>      	|           	|
-|       	| 8.3  	| Samba Server Configuartion        	| <a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/Samba-Server">Open</a>       	|           	|
-|       	| 8.4  	| FTP Server Configuration        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/Samba-Server">Open</a>       	|           	|
+|       	| 8.2  	| Apache2 Server Configuration        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/Apache2-Configuration">Open</a>  |           	|
+|       	| 8.3  	| NFS server Configuration       	| <a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/NFS-Configuration">Open</a>      	|           	|
+|       	| 8.4  	| Samba Server Configuartion        	| <a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/Samba-Server">Open</a>       	|           	|
+|       	| 8.5  	| FTP Server Configuration        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/Samba-Server">Open</a>       	|           	|
 
 https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking
 # 1.1 Linux and its features

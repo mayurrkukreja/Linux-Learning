@@ -5,8 +5,8 @@
 |        	| 1.2  	| Linux History      	|<a href="https://github.com/mayurrkukreja/Linux-Learning#12-linux-history">Open</a>       	|           	|
 |        	| 1.3  	| Linux OS internals      	|<a href="https://github.com/mayurrkukreja/Linux-Learning#12-linux-history">Open</a>       	|           	|
 |        	| 1.4  	| Linux Distributions     	|<a href="https://github.com/mayurrkukreja/Linux-Learning#linux-distributions-list">Open</a>       	|           	|
-| 2      	| 2.1  	| Linux Installation      	|<a href="https://github.com/mayurrkukreja/Linux-Learning#process-states-in-linux">Open</a>         	|           	|
-| 3      	| 3.1  	| Process states in Linux 	|       	|           	|
+| 2      	| 2.1  	| Linux Installation      	|        	|           	|
+| 3      	| 3.1  	| Process states in Linux 	|<a href="https://github.com/mayurrkukreja/Linux-Learning#process-states-in-linux">Open</a>        	|           	|
 | 4      	| 4.1  	| Linux Directories       	|       	|           	|
 |        	| 4.2  	| Linux Files             	|       	|           	|
 |        	| 4.3  	| Linux File Contents     	|       	|           	|

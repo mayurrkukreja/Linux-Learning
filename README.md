@@ -5,18 +5,14 @@
 |        	| 1.2  	| Linux History      	|<a href="https://github.com/mayurrkukreja/Linux-Learning#12-linux-history">Open</a>       	|           	|
 |        	| 1.3  	| Linux OS internals      	|<a href="https://github.com/mayurrkukreja/Linux-Learning#12-linux-history">Open</a>       	|           	|
 |        	| 1.4  	| Linux Distributions     	|<a href="https://github.com/mayurrkukreja/Linux-Learning#linux-distributions-list">Open</a>       	|           	|
-| 2      	| 2.1  	| Linux Installation      	|        	|           	|
-| 3      	| 3.1  	| Process states in Linux 	|<a href="https://github.com/mayurrkukreja/Linux-Learning#process-states-in-linux">Open</a>        	|           	|
-| 4      	| 4.1  	| Linux Directories       	|       	|           	|
-| 5      	| 5.1  	| Linux Basic Commands    	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/5.Linux-Commands#linux-basic-commands">Open</a>       	|           	|
-| 6      	| 6.1  	| Shell Scripts             	|       	|           	|
-| 7      	| 7.1  	| Linux users             	|       	|           	|
-|        	| 7.2  	| Admin commands          	|       	|           	|
-| 8      	| 8.1  	| Linux Networking        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking">Open</a>        	|           	|
-|       	| 8.2  	| Apache2 Server Configuration        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/Apache2-Configuration">Open</a>  |           	|
-|       	| 8.3  	| NFS server Configuration       	| <a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/NFS-Configuration">Open</a>      	|           	|
-|       	| 8.4  	| Samba Server Configuartion        	| <a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/Samba-Server">Open</a>       	|           	|
-|       	| 8.5  	| FTP Server Configuration        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/FTP-Server">Open</a>       	|           	|
+| 2      	| 2.1  	| Process states in Linux 	|<a href="https://github.com/mayurrkukreja/Linux-Learning#process-states-in-linux">Open</a>        	|           	|
+| 3      	| 3.1  	| Linux Directories       	|       	|           	|
+| 4      	| 4.1  	| Linux Basic Commands    	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/5.Linux-Commands#linux-basic-commands">Open</a>       	|           	|
+| 5      	| 5.1  	| Linux Networking        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking">Open</a>        	|           	|
+|       	| 5.2  	| Apache2 Server Configuration        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/Apache2-Configuration">Open</a>  |           	|
+|       	| 5.3  	| NFS server Configuration       	| <a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/NFS-Configuration">Open</a>      	|           	|
+|       	| 5.4  	| Samba Server Configuartion        	| <a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/Samba-Server">Open</a>       	|           	|
+|       	| 5.5  	| FTP Server Configuration        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/FTP-Server">Open</a>       	|           	|
 
 # 1.1 Linux and its features
 

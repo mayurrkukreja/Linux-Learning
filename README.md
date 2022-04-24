@@ -96,7 +96,7 @@ It is a project that mainly focuses on free software and provides latest version
 
 # Process States in Linux
 
-<img src="https://static.javatpoint.com/operating-system/images/os-process-state-diagram.png">
+<img src="https://www.tecmint.com/wp-content/uploads/2017/03/ProcessState.png">
 
 
 The process, from its creation to completion, passes through various states. The minimum number of states is five.

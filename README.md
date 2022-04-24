@@ -16,9 +16,8 @@
 |       	| 8.2  	| Apache2 Server Configuration        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/Apache2-Configuration">Open</a>  |           	|
 |       	| 8.3  	| NFS server Configuration       	| <a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/NFS-Configuration">Open</a>      	|           	|
 |       	| 8.4  	| Samba Server Configuartion        	| <a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/Samba-Server">Open</a>       	|           	|
-|       	| 8.5  	| FTP Server Configuration        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/Samba-Server">Open</a>       	|           	|
+|       	| 8.5  	| FTP Server Configuration        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/FTP-Server">Open</a>       	|           	|
 
-https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking
 # 1.1 Linux and its features
 
 Linux is a Unix-like open-source computer operating system (OS) 

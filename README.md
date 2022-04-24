@@ -5,7 +5,7 @@
 |        	| 1.2  	| Linux History      	|<a href="https://github.com/mayurrkukreja/Linux-Learning#12-linux-history">Open</a>       	|           	|
 |        	| 1.3  	| Linux OS internals      	|<a href="https://github.com/mayurrkukreja/Linux-Learning#12-linux-history">Open</a>       	|           	|
 |        	| 1.4  	| Linux Distributions     	|<a href="https://github.com/mayurrkukreja/Linux-Learning#linux-distributions-list">Open</a>       	|           	|
-| 2      	| 2.1  	| Linux Installation      	|       	|           	|
+| 2      	| 2.1  	| Linux Installation      	|<a href="https://github.com/mayurrkukreja/Linux-Learning#process-states-in-linux">Open</a>         	|           	|
 | 3      	| 3.1  	| Process states in Linux 	|       	|           	|
 | 4      	| 4.1  	| Linux Directories       	|       	|           	|
 |        	| 4.2  	| Linux Files             	|       	|           	|
@@ -95,6 +95,10 @@ Red hat uses trademark law to prevent their software from being redistributed. C
 It is a project that mainly focuses on free software and provides latest version of software. It doesn't make its own desktop environment but used 'upstream' software. By default it has GNOME3 desktop environment. It is less stable but provides the latest stuff.
 
 # Process States in Linux
+
+<img src="https://static.javatpoint.com/operating-system/images/os-process-state-diagram.png">
+
+
 The process, from its creation to completion, passes through various states. The minimum number of states is five.
 
 The names of the states are not standardized although the process may be in one of the following states during execution.

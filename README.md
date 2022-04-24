@@ -10,7 +10,7 @@
 | 4      	| 4.1  	| Linux Directories       	|       	|           	|
 |        	| 4.2  	| Linux Files             	|       	|           	|
 |        	| 4.3  	| Linux File Contents     	|       	|           	|
-| 5      	| 5.1  	| Linux Shell Commands    	|       	|           	|
+| 5      	| 5.1  	| Linux Basic Commands    	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/5.Linux-Commands#linux-basic-commands">Open</a>       	|           	|
 | 6      	| 6.1  	| Shell Scripts             	|       	|           	|
 | 7      	| 7.1  	| Linux users             	|       	|           	|
 |        	| 7.2  	| Admin commands          	|       	|           	|

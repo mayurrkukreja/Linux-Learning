@@ -1,0 +1,19 @@
+1. ls
+2. mkdir
+3. cd
+4. rmdir
+5. rm
+6. wc
+7. pwd
+8. clear
+9. man
+10. mv
+11. cp
+12. cat
+13. head
+14. tail
+15. find
+16. more
+17. less
+18. history
+

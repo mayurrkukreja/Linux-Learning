@@ -16,9 +16,9 @@
 |        	| 7.2  	| Admin commands          	|       	|           	|
 | 8      	| 8.1  	| Linux Networking        	|       	|           	|
 |       	| 8.1  	| Apache2 Server Configuration        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/Apache2-Configuration">Open</a>  |           	|
-|       	| 8.2  	| Linux Networking        	|       	|           	|
-|       	| 8.3  	| Linux Networking        	|       	|           	|
-|       	| 8.4  	| Linux Networking        	|       	|           	|
+|       	| 8.2  	| NFS server Configuration       	|       	|           	|
+|       	| 8.3  	| Samba Server Configuartion        	|       	|           	|
+|       	| 8.4  	| FTP Server Configuration        	|       	|           	|
 
 
 # 1.1 Linux and its features

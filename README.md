@@ -6,7 +6,7 @@
 |        	| 1.3  	| Linux OS internals      	|<a href="https://github.com/mayurrkukreja/Linux-Learning#12-linux-history">Open</a>       	|           	|
 |        	| 1.4  	| Linux Distributions     	|<a href="https://github.com/mayurrkukreja/Linux-Learning#linux-distributions-list">Open</a>       	|           	|
 | 2      	| 2.1  	| Process states in Linux 	|<a href="https://github.com/mayurrkukreja/Linux-Learning#process-states-in-linux">Open</a>        	|           	|
-| 3      	| 3.1  	| Linux Directories       	|       	|           	|
+| 3      	| 3.1  	| Linux Directories       	|<a href="https://github.com/mayurrkukreja/Linux-Learning/blob/main/README.md#linux-directories-and-file-structure">Open</a>       	|           	|
 | 4      	| 4.1  	| Linux Basic Commands    	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/5.Linux-Commands#linux-basic-commands">Open</a>       	|           	|
 | 5      	| 5.1  	| Linux Networking        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking">Open</a>        	|           	|
 |       	| 5.2  	| Apache2 Server Configuration        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/Apache2-Configuration">Open</a>  |           	|

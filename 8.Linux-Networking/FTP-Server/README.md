@@ -50,8 +50,8 @@ password. Some FTP servers allow for anonymous connection,
 which does not require you to enter a name or password to gain
 acces
 
-<img src"https://github.com/mayurrkukreja/Linux-Learning/blob/main/8.Linux-Networking/FTP-Server/17.png?raw=true">
-<img src"https://github.com/mayurrkukreja/Linux-Learning/blob/main/8.Linux-Networking/FTP-Server/18.png?raw=true">
-<img src"https://github.com/mayurrkukreja/Linux-Learning/blob/main/8.Linux-Networking/FTP-Server/19.png?raw=true">
-<img src"https://github.com/mayurrkukreja/Linux-Learning/blob/main/8.Linux-Networking/FTP-Server/20.png?raw=true">
-<img src"https://github.com/mayurrkukreja/Linux-Learning/blob/main/8.Linux-Networking/FTP-Server/21.png?raw=true">
+<img src="https://github.com/mayurrkukreja/Linux-Learning/blob/main/8.Linux-Networking/FTP-Server/17.png?raw=true">
+<img src="https://github.com/mayurrkukreja/Linux-Learning/blob/main/8.Linux-Networking/FTP-Server/18.png?raw=true">
+<img src="https://github.com/mayurrkukreja/Linux-Learning/blob/main/8.Linux-Networking/FTP-Server/19.png?raw=true">
+<img src="https://github.com/mayurrkukreja/Linux-Learning/blob/main/8.Linux-Networking/FTP-Server/20.png?raw=true">
+<img src="https://github.com/mayurrkukreja/Linux-Learning/blob/main/8.Linux-Networking/FTP-Server/21.png?raw=true">

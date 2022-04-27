@@ -1,0 +1,6 @@
+#! /bin/sh
+echo -e "\n $(date" %d - % /%y") starting work \n"
+sudo apt update
+sudo apt -y upgrade
+sudo apt -y autoremove
+sudo apt autoclean

@@ -23,19 +23,19 @@ case $choice in
   # Pattern 1
   1)  echo "You have selected the option 1"
       cat > sort.txt
-      echo "Now, Make new changes to the file. Enter any details like name, place animal thing";;
+      echo "Restart Program and try differnt Sort Command with Options :) ";;
   # Pattern 2
   2)  echo "You have selected the option 2"
       sort -r sort.txt
-      echo "Now, Make new changes to the file. Enter any details like name, place animal thing";;
+      echo "Restart Program and try differnt Sort Command with Options :) ";;
   # Pattern 3
   3)  echo "You have selected the option 3"
       sort -M sort.txt
-      echo "Now, Make new changes to the file. Enter any details like name, place animal thing";;
+      echo "Restart Program and try differnt Sort Command with Options :) ";;
   # Pattern 4
   4)  echo "You have selected the option 3"
       sort -b sort.txt
-      echo "Now, Make new changes to the file. Enter any details like name, place animal thing";;   
+      echo "Restart Program and try differnt Sort Command with Options :) ";;   
   # Pattern 5
   5)  echo "Quitting ..."
       exit;;

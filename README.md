@@ -13,6 +13,7 @@
 |       	| 5.3  	| NFS server Configuration       	| <a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/NFS-Configuration">Open</a>      	|           	|
 |       	| 5.4  	| Samba Server Configuartion        	| <a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/Samba-Server">Open</a>       	|           	|
 |       	| 5.5  	| FTP Server Configuration        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/8.Linux-Networking/FTP-Server">Open</a>       	|           	|
+| 6      	| 6.1  	| Shell Script        	|<a href="https://github.com/mayurrkukreja/Linux-Learning/tree/main/Scripts">Open</a>       	|           	|
 
 # 1.1 Linux and its features
 
